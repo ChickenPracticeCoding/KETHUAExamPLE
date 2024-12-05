@@ -1,0 +1,15 @@
+E:\Hoctap\Prj_Github\Stopwatch\StopWatch\keThuaExample\keThuaExample\bin\Debug\net8.0\keThuaExample.exe
+E:\Hoctap\Prj_Github\Stopwatch\StopWatch\keThuaExample\keThuaExample\bin\Debug\net8.0\keThuaExample.deps.json
+E:\Hoctap\Prj_Github\Stopwatch\StopWatch\keThuaExample\keThuaExample\bin\Debug\net8.0\keThuaExample.runtimeconfig.json
+E:\Hoctap\Prj_Github\Stopwatch\StopWatch\keThuaExample\keThuaExample\bin\Debug\net8.0\keThuaExample.dll
+E:\Hoctap\Prj_Github\Stopwatch\StopWatch\keThuaExample\keThuaExample\bin\Debug\net8.0\keThuaExample.pdb
+E:\Hoctap\Prj_Github\Stopwatch\StopWatch\keThuaExample\keThuaExample\obj\Debug\net8.0\keThuaExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hoctap\Prj_Github\Stopwatch\StopWatch\keThuaExample\keThuaExample\obj\Debug\net8.0\keThuaExample.AssemblyInfoInputs.cache
+E:\Hoctap\Prj_Github\Stopwatch\StopWatch\keThuaExample\keThuaExample\obj\Debug\net8.0\keThuaExample.AssemblyInfo.cs
+E:\Hoctap\Prj_Github\Stopwatch\StopWatch\keThuaExample\keThuaExample\obj\Debug\net8.0\keThuaExample.csproj.CoreCompileInputs.cache
+E:\Hoctap\Prj_Github\Stopwatch\StopWatch\keThuaExample\keThuaExample\obj\Debug\net8.0\keThuaExample.sourcelink.json
+E:\Hoctap\Prj_Github\Stopwatch\StopWatch\keThuaExample\keThuaExample\obj\Debug\net8.0\keThuaExample.dll
+E:\Hoctap\Prj_Github\Stopwatch\StopWatch\keThuaExample\keThuaExample\obj\Debug\net8.0\refint\keThuaExample.dll
+E:\Hoctap\Prj_Github\Stopwatch\StopWatch\keThuaExample\keThuaExample\obj\Debug\net8.0\keThuaExample.pdb
+E:\Hoctap\Prj_Github\Stopwatch\StopWatch\keThuaExample\keThuaExample\obj\Debug\net8.0\keThuaExample.genruntimeconfig.cache
+E:\Hoctap\Prj_Github\Stopwatch\StopWatch\keThuaExample\keThuaExample\obj\Debug\net8.0\ref\keThuaExample.dll
